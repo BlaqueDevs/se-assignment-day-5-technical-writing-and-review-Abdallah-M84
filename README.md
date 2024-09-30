@@ -60,3 +60,12 @@ Mention the primary use cases or the problem it solves.
 Briefly highlight who the product is for and how to get started.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
+State the product's primary purpose in one or two sentences, focusing on the problem it solves or the benefit it provides.
+Example: "This app helps users track their daily fitness goals easily by providing personalized workout plans and progress tracking."
+Highlight the key features in a brief, bulleted list or short paragraph. Focus on the most important functionalities that set it apart from competitors.
+Example: "Key features include:
+Customizable workout plans
+Real-time progress tracking
+Syncing with wearables for data integration
+Social sharing for workout milestones"
+
